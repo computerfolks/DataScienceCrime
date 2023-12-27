@@ -1,4 +1,4 @@
-Assignment 2 in CSCI 381: Applied Data Science. Score 99/100
+Assignment 2 from CSCI 381: Applied Data Science. Score 99/100
 
 In this project you will construct machine learning models on two different real-world datasets using unsupervised learning and regression. The datasets include a forest coverage dataset and a crime dataset. Follow directions written out in the jupyter notebook.
 
